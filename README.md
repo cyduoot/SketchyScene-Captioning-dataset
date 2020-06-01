@@ -4,14 +4,14 @@ This respository hosts the datesets for the paper.
 
 ## Dataset
 
-Our dataset consist of two parts:
+Our dataset consists of two parts:
 
 - SketchyScene sentence-level caption
   * View in sentence.json
 - SketchyScene paragraph-level caption
   * View in paragraph.json
 
-Our origin image are obtained from the respository [SketchyScene](https://github.com/SketchyScene/SketchyScene)
+Our original image are obtained from the respository [SketchyScene](https://github.com/SketchyScene/SketchyScene)
 
 ## Reference
 
